@@ -1,2 +1,2 @@
-#!/bim/bash
+#!/bin/bash
 tr -d "c" | tr -d "C"
