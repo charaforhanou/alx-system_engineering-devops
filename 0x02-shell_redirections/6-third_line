@@ -1,0 +1,9 @@
+#!/bin/bash
+# Navigate to the working directory
+cd /path/to/working/directory
+
+# Use head to get the first 3 lines of the file, then use tail to get the third line
+line=$(head -n 3 iacta | tail -n 1)
+
+# Print the third line
+echo $line
