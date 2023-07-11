@@ -1,0 +1,2 @@
+#!/bin/bash
+ptint "%0.2f\n" $NUM
