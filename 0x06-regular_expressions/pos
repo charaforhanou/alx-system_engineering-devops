@@ -1,5 +1,5 @@
 #!/bin/bash
 git add  .
-git commit -m  "tset"
+git commit -m  "$1"
 git push
 echo "doooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooone"
